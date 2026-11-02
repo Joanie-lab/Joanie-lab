@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Joan 👋
 
-<!--
-**Joanie-lab/Joanie-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biochemistry graduate moving into bioinformatics. I'm learning Python and data analysis by applying them to biological problems.
 
-Here are some ideas to get you started:
+### Projects
+- [Breast Cancer Diagnostic Analysis](https://github.com/Joanie-lab/breast-cancer-diagnostic-analysis): exploring and classifying breast cancer samples with Python and logistic regression
+- [DNA Sequence Analysis](https://github.com/Joanie-lab/dna-sequence-analysis): reads FASTA files and calculates sequence length, nucleotide counts, GC content and reverse complements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning
+Python, SQL, statistics and bioinformatics fundamentals
+
+### Fun facts
+- 🔍 I love solving mysteries. Give me a thriller (a book, a movie or a game), and you've made my week. It's also why I enjoy finding patterns hidden in data.
+- 🎮 I love simulation games, and The Sims 4 gets a special mention.
